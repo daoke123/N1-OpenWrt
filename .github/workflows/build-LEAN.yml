@@ -171,7 +171,7 @@ jobs:
           基于lean openwrt构建
           首次使用建议全新刷写
           * 基本信息
-          IP: 192.168.2.2
+          IP: 192.168.31.100
           账户: root
           密码: password
           
